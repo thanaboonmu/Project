@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-01-31 19:55:00.529188",
+    "dataset_id": "20180131-195331-b75a",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180131-195500-36a9",
+    "image dimensions": [
+        256,
+        256,
+        1
+    ],
+    "image resize mode": "squash",
+    "job id": "20180131-195500-36a9",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "SobelTest350Alex",
+    "snapshot file": "snapshot_iter_700.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "champ"
+}

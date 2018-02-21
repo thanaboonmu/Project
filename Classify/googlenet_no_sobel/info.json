@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-01-26 22:44:48.710309",
+    "dataset_id": "20180126-015713-0ae0",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180126-224448-316b",
+    "image dimensions": [
+        1200,
+        1920,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20180126-224448-316b",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "GoogleWithSGD350FullPx",
+    "snapshot file": "snapshot_iter_350.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "champ"
+}

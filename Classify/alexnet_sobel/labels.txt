@@ -1,0 +1,2 @@
+NormalSobel
+PtetySobel
